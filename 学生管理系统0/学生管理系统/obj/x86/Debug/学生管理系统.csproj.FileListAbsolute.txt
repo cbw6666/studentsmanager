@@ -1,0 +1,15 @@
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\bin\Debug\学生管理系统.exe
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\bin\Debug\学生管理系统.pdb
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\App.g.cs
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\学生管理系统_MarkupCompile.cache
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\学生管理系统.g.resources
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\学生管理系统.Properties.Resources.resources
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\学生管理系统.csproj.GenerateResource.Cache
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\学生管理系统.exe
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\学生管理系统.pdb
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\MainWindow.baml
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\MainWindow.g.cs
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\info.baml
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\info.g.cs
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\bin\Debug\MySql.Data.dll
+D:\Users\dk\Desktop\学生管理系统\学生管理系统\obj\x86\Debug\学生管理系统.csprojResolveAssemblyReference.cache
