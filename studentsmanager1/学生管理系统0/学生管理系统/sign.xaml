@@ -1,0 +1,19 @@
+﻿<Window x:Class="学生管理系统.sign"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="学生管理系统" Height="300" Width="567" Icon="/学生管理系统;component/Images/person_people_16px_1189669_easyicon.net1.ico">
+    <Window.Background>
+        <ImageBrush ImageSource="/学生管理系统;component/Images/back2.jpg" />
+    </Window.Background>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/学生管理系统;component/Images/9057729_091355182176_2.jpg" />
+        </Grid.Background>
+        <Label Content="用户名" Height="28" HorizontalAlignment="Left" Margin="107,71,0,0" Name="label1" VerticalAlignment="Top" FontWeight="Bold" />
+        <Label Content="密码" Height="28" HorizontalAlignment="Left" Margin="119,122,0,0" Name="label2" VerticalAlignment="Top" FontWeight="Bold" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="159,75,0,0" Name="textBox_id" VerticalAlignment="Top" Width="120" MaxLength="20" />
+        <PasswordBox Height="23" HorizontalAlignment="Left" Margin="159,122,0,0" Name="passwordBox1" VerticalAlignment="Top" Width="120" MaxLength="10" />
+        <Button Content="登录" Height="23" HorizontalAlignment="Left" Margin="294,75,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="注册" Height="23" HorizontalAlignment="Left" Margin="294,122,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+    </Grid>
+</Window>
